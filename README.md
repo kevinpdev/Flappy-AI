@@ -105,7 +105,7 @@ Although the fitness score doesn't increase every individual generation, there i
 
 A short video of a FlappyAI simulation run can be viewed via Youtube:
 
-<img src="images/Youtube Play.png" href = "https://www.youtube.com/watch?v=xwtjWiSg984" style="width:400px;height:300px;">
+<a href = "https://www.youtube.com/watch?v=xwtjWiSg984"><img src="images/Youtube Play.png" style="width:400px;height:300px;"> </a>
 
 #### Tools Used
 
