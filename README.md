@@ -35,7 +35,7 @@ In Flappy AI I have created a simulation of the Flappy Bird, where 100 birds are
 #### Neural Network Introduction
 A Neural Network is a function approximator that consists of artificial 'neurons' that are linked together in a network. Through simple mathematical operations, the network maps an arbitrary number of inputs to an arbitrary number of outputs. Using various machine learning  algorithms, The weight and bias values of a neural network are fine tuned to learn the approximate function that will most accurately transform the inputs of the training data to their corresponding outputs.
 
-<img src="images/NN intro.png" style="width:250px;height:300px;">
+<img src="images/NN.png" style="width:250px;height:300px;">
 
 #### Implementation
 Each different bird in this simulation has its own 'brain' or neural network. The neural network in each bird decides what actions the bird takes in certain situations. The architecture for the neural network is shown below:
